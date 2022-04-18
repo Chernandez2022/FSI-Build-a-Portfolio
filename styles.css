@@ -1,0 +1,21 @@
+     body {
+    background-image:linear-gradient(rgb(194, 158, 79),rgb(109, 43, 17));
+  }
+  div  {
+    color: rgb(19, 49, 44);
+  }
+  h1{
+  background-color:rgba(170, 103, 15, 0.336)
+  }
+  h1{text-shadow: 3px 3px rgb(94, 9, 151);}
+  p{ border: 1px solid black;
+    background: url(https://i.giphy.com/media/NzSUEgbTWB7TW/giphy.webp);
+    background-size: 600px 600px;
+    background-repeat: no-repeat;
+    padding: 15px;
+  }
+  h3{background-color: rgba(49, 25, 77, 0.575);
+    color: rgb(18, 12, 24);}
+    .projects{ color: rgb(4, 173, 173);}
+    p{ color: dodgerblue;}
+  
